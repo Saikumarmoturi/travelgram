@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "gitsearcher-adae8": {
+      "hosting": {
+        "travelgram": [
+          "gitsearcher-adae8"
+        ]
+      }
+    }
+  }
+}
