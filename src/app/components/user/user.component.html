@@ -1,0 +1,13 @@
+<div class="card mb-3 harizontal-display">
+    <div class="d-flex justofy-content-center align-items-center">
+        <img [src]="user.picture" width="40px" height="40" class="rounded-cirle ml-2" alt="">
+    </div>
+    <div class="card-body">
+        <h5 class="card-title">
+            {{user.name|uppercase}}
+        </h5>
+        <p class="card-text">
+            {{user.bio}}
+        </p>
+    </div>
+</div>
